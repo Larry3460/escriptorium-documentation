@@ -4,6 +4,8 @@ summary: A brief explanation on how to contribute to the project.
 authors:
     - Alix Chagué
 date: 2023-01-31
+    - Roland Gonsalès
+date: 2025-02-21   
 ---
 
 # How to contribute to the documentation?
